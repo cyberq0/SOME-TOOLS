@@ -65,3 +65,10 @@ This code is released under the MIT License. See the LICENSE file for details.
 Disclaimer
 
 This tool is for educational purposes only and should not be used to harm others. The author is not responsible for any misuse of this tool.
+
+
+
+
+
+
+pip3 install scapy python-barcode qrcode phonenumbers dnspython
